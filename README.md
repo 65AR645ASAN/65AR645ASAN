@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @65AR645ASAN
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning python, java, computer science
+- 🌱 Programming in Shell Java C++ Python
 - 💞️ I’m looking to collaborate on technology projects
 - 📫 How to reach me - adi.sandhu@outlook.com
 
